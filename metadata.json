@@ -1,4 +1,5 @@
 {
   "name": "Domótica Eficiente",
-  "description": "Una aplicación web que actúa como Arquitecto Técnico experto en Domótica y eficiencia energética, brindando diagnósticos, propuestas de Smart Home y estimaciones de ahorro basadas en una guía técnica."
+  "description": "Una aplicación web que actúa como Arquitecto Técnico experto en Domótica y eficiencia energética, brindando diagnósticos, propuestas de Smart Home y estimaciones de ahorro basadas en una guía técnica.",
+  "requestFramePermissions": []
 }
